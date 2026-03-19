@@ -40,8 +40,7 @@ chmod +x script2_package_inspector.sh
 ```
 
 **Output:**
-
-![script2 output](![alt text](image-1.png))
+(![alt text](image-1.png))
 
 ---
 
@@ -55,8 +54,7 @@ chmod +x script3_disk_auditor.sh
 ```
 
 **Output:**
-
-![script3 output](![alt text](image-2.png))
+(![alt text](image-2.png))
 
 ---
 
@@ -72,8 +70,7 @@ chmod +x script4_log_analyzer.sh
 If you don't have /var/log/syslog, try /var/log/messages or any other log file on your system.
 
 **Output:**
-
-![script4 output]()![alt text](image-3.png)
+![alt text](image-3.png)
 
 ---
 
@@ -87,8 +84,7 @@ chmod +x script5_manifesto.sh
 ```
 
 **Output:**
-
-![script5 output]()![alt text](image-4.png)
+![alt text](image-4.png)
 
 ---
 
