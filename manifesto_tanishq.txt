@@ -1,0 +1,19 @@
+Open Source Manifesto
+Generated on: 19 March 2026
+----------------------------------------------
+
+I use tool every single day without paying for it, without asking for
+permission, and without waiting for a company to decide what features I
+should or should not have. That is not a small thing. To me, freedom in
+software means privacy — the ability to look under the hood, change
+what doesn't work, and share what you've learned.
+
+If I had the skill and time, I would build netflix and put it out there
+for anyone who needs it. Not because it would make me money, but because
+that is how the tools I depend on were made — by people who gave something
+without knowing exactly who would benefit from it.
+
+Open source is not charity. It is a choice about what kind of world you
+want to work in. I would rather work in one where knowledge is shared.
+
+-- tanishq, 19 March 2026
